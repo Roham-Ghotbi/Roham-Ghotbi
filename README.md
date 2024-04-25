@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Roham Here! 👋
 
 <!--
 **Roham-Ghotbi/Roham-Ghotbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Data Scientist and Machine Learning Engineer with a knack for backend wizardry. I thrive on leveraging the latest tech to tackle real-world challenges. At Walmart Global Tech, I led projects to revolutionize incident mitigation and optimize anomaly detection, making life easier for teams across the board. Prior to that, I was diving deep into backend engineering, where I geeked out on enhancing systems and fine-tuning algorithms to optimize performance.
+
+⚡ When I am not at my desk, you can find me at the closest gym or the Soccer field, depending on how athletic I feel 😄
+📫 How to reach me: rohamghotbi@berkeley.edu
+
+With a passion for pushing boundaries and a penchant for problem-solving, I'm always ready to roll up my sleeves and dive into the next big thing. Let's code some magic together!
